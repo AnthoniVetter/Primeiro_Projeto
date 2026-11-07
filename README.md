@@ -44,7 +44,7 @@ Primeiro_Projeto/
 ### Pelo Eclipse
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/Primeiro_Projeto.git
+   git clone https://github.com/AnthoniVetter/Primeiro_Projeto.git
    ```
 2. No Eclipse: **File → Import → Existing Projects into Workspace** e selecione a pasta clonada.
 3. Execute a classe `view.TelaInicio` (**Run As → Java Application**).
